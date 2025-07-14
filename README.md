@@ -18,7 +18,7 @@ A fun and interactive timing game built with React. Press the button to start th
 
 ## 🚀 Live Demo
 
-[Play it on GitHub Pages](https://your-username.github.io/the-almost-final-countdown)
+[Play it on GitHub Pages](https://cobb304.github.io/the-almost-final-countdown/)
 
 ## 🛠️ Installation
 
